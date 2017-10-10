@@ -1,17 +1,17 @@
 {
   "name": "whalespin.co",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "whalespin",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
   "dependencies": {
-    "express": "~4.9.x",
-    "jade": "~1.8.1"
+    "express": "4.16.x",
+    "jade": "1.11.x"
   },
   "engines": {
-    "node": "0.10.x"
+    "node": "8.6.x"
   },
   "repository": {
     "type": "git",
